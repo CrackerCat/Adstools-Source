@@ -1,5 +1,7 @@
 # AdsTools source
 
+![](Image.png)
+
 Yes, this is open source of leaked AdsTools. However, it has been changed since
 
 - Removed toast removal (A.K.A leeching)
